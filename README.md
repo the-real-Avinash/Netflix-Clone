@@ -1,3 +1,8 @@
+
+LIVE URL : https://netflix-clone-170e7.web.app/
+
+Hosting using google firebase 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
